@@ -1,0 +1,29 @@
+body{ background: rgb(125, 148, 167);}
+
+
+#t{
+    
+    font-size: 45px;
+}
+#title{
+font-size: 26px;
+text-align: center;
+}
+#img-div{
+    text-align: center;
+    display: block;
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+#image{
+
+    max-width:100%;
+    height: auto;
+    margin: 0 auto;
+
+}
+p1{ text-align: center;}
+
+ul{display: inline-block;}
+#img-caption{ text-align: center; margin: 30px;;}
